@@ -32,7 +32,9 @@ Bases de preço ou banco de preços possuem produtos que são igual ou muito sem
 4. ???
 
 
-5. 
+5. Nesta verificação foi testado a distância cosseno entre os produtos. Inicialmente não foi usando nenhuma técnica, apenas se quando a distância cosseno era próxima os produtos parecidos tinham alta similaridade. Após essa verificação foi tentando agrupar usando kmeans e a distância cosseno. Como resultado os produtos semelhantes foram agrupados. O uso de kmeans verificado com silhouette melhorou em termos de resultados mas não foi 
+
+(https://github.com/lazaroOliveiraUFRN/PPGTI3100_2024/blob/423db2d8c490fb9cd9ad1c2c25d2b02ee2b1c672/5_Estrat%C3%A9gia_verificar_apenas_a_dist%C3%A2ncia_cosseno_kmeans.ipynb)
 
 
 ### Resultado
