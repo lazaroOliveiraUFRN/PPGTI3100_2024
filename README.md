@@ -12,10 +12,9 @@ Tentar identificar estratégias que permitam identificar produtos semelhantes nu
 
 ### Motivação
 
-Bases de preço ou banco de preços possuem produtos que são igual ou muito semelhantes com descrições diferentes. Isso dificulta o agrupamento e consequentemente a comparação de preços de produtos. Este problema já tem sido trabalhando por vários autores. Neste notebooks propõe-se avaliar estratégias baseadas em modelo estado da arte. 
+Bases de preço ou banco de preços possuem produtos que são igual ou muito semelhantes com descrições diferentes. Isso dificulta o agrupamento e consequentemente a comparação de preços de produtos. Este problema já tem sido trabalhando por vários autores. Nesse notebooks propõem-se avaliar estratégias baseadas em modelos LLM estado da arte. 
 
 ### Técnicas testadas
-
 
 [texto do link](https://colab.research.google.com/drive/1d19Elb6_lA-lhci3OJTlZneNPD_BWdne?usp=sharing)
 
