@@ -1,5 +1,6 @@
 # PPGTI3100 - TÓPICOS AVANÇADOS EM INTELIGÊNCIA COMPUTACIONAL 1
 ## [UFRN](https://www.ufrn.br/) - [IMD](https://www.metropoledigital.ufrn.br/portal/) - [PPGTI](https://sigaa.ufrn.br/sigaa/public/programa/apresentacao.jsf?lc=pt_BR&id=7872)
+## Programa de Mestrado em Inteligência Computacional
 ## Professor: [ELIAS JACOB DE MENEZES NETO](http://www.docente.ufrn.br/elias.jacob)
 ## Aluno: Lázaro Raimundo de Oliveira
 
