@@ -29,8 +29,11 @@ Bases de preço ou banco de preços possuem produtos que são igual ou muito sem
 
 [3_Clusteriza%C3%A7%C3%A3o_dos_produtos_k_means.ipynb](https://github.com/lazaroOliveiraUFRN/PPGTI3100_2024/blob/fa994209f1d46f8583e035677217886662dd9e6b/3_Clusteriza%C3%A7%C3%A3o_dos_produtos_k_means.ipynb)
 
+4. ???
 
-4. 
+
+5. 
+
 
 ### Resultado
 
