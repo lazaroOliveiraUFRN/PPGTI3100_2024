@@ -19,7 +19,11 @@ Bases de preço ou banco de preços possuem produtos que são igual ou muito sem
 
 1. Foi realizada a leitura da lista de produtos e selecionado uma amostra de 5000 produtos.
 
+<div style="margin-left: 40px;">
+
 [1_Seleção_de_Lista_Amostra_de_Produtos.ipynb](https://github.com/lazaroOliveiraUFRN/PPGTI3100_2024/blob/439ee5eaed79a5fd34276b8e674b0eddc56367e8/1_Sele%C3%A7%C3%A3o_de_Lista_Amostra_de_Produtos.ipynb)
+
+<div>
 
 2. Para embedding foi utilizado o modelo [mxbai-embed-large](https://ollama.com/library/mxbai-embed-large). Este modelo tem 1-24 fatores ou componentes. Também foi realizado uma classificação dos elementos da descrição dos produtos usando o modelo [llama3.1](https://ollama.com/library/llama3.1) e exportadado em um array de json.
 
