@@ -23,6 +23,8 @@ Bases de preço ou banco de preços possuem produtos que são igual ou muito sem
 
 2. Para embedding foi utilizado o modelo [mxbai-embed-large](https://ollama.com/library/mxbai-embed-large). Este modelo tem 1-24 fatores ou componentes. Também foi realizado uma classificação dos elementos da descrição dos produtos usando o modelo [llama3.1](https://ollama.com/library/llama3.1) e exportadado em um array de json.
 
+A execução em GPU demora 2 segundos por requisição. A execução em CPU demora mais de 3 minutos cada.
+
 [2_Meta_Llama_3_70B.ipynb](https://github.com/lazaroOliveiraUFRN/PPGTI3100_2024/blob/439ee5eaed79a5fd34276b8e674b0eddc56367e8/2_Meta_Llama_3_70B.ipynb)
 
 3. A primeira tentativa de agrupamento foi usando kmeans e avaliando a silhouette. O valores de silhouette (0,025 .. -0,05) indicaram que os produtos parecidos não formam grupos pequenos e identificáveis facilmente usando esta técnica.
