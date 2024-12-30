@@ -67,6 +67,8 @@ Como a silhouette não se mostrou apropriada para encontrar os clusters buscados
 
 Nesta tentantiva com a distância de ligação de 1,5 foi possível identificar prováveis grupos de produtos que são iguais ou semelhantes. Observou-se também que este valor pode ser melhorado.
 
+[7_Estrat%C3%A9gia_Agrupamento_hier%C3%A1rquico_usando_cosine_similarity](https://github.com/lazaroOliveiraUFRN/PPGTI3100_2024/blob/ab1193fa94f2e7a52141e2ff1cc6c28b4b591bc9/7_Estrat%C3%A9gia_Agrupamento_hier%C3%A1rquico_usando_cosine_similarity.ipynb)
+
 ## Resultado
 
 Para a identificação de produtos semelhantes a seleção de técnicas que mostrou-se mais promissora usando embedding de 1024 com o modelo mxbai-embed-large fatores foi Agrupamento hierárquico, com similaridade cosseno e definindo uma distância de agrupamento baixa.
