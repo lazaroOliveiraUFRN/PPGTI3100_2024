@@ -60,7 +60,13 @@ Nesta verificação foi usado Spectral clusters com distância cosseno avaliado 
 
 [6_Estrat%C3%A9gia_verificar_apenas_a_dist%C3%A2ncia_cosseno_spectral](https://github.com/lazaroOliveiraUFRN/PPGTI3100_2024/blob/55491825f30e0b38384e4a1684f3c1208a26025e/6_Estrat%C3%A9gia_verificar_apenas_a_dist%C3%A2ncia_cosseno_spectral.ipynb)
 
-### 
+### Clusterização usando agrupamento hierárquico, similaridade cosseno e threshold
 
-### Resultado
+Nesta verificação foi escolhido o método agrupamento hierárquico devido ele subagrupar os itens. A similaridade cosseno mostrou-se melhor nos resultados anteriores e foi escolhida como medida de distância.
+Como a silhouette não se mostrou apropriada para encontrar os clusters buscados, optou-se por uma estratégia que fosse dos itens para os grupos, sendo escolhido o valor arbitrário de distância de ligação(distance_threshold).
 
+Nesta tentantiva com a distância de ligação de 1,5 foi possível identificar prováveis grupos de produtos que são iguais ou semelhantes. Observou-se também que este valor pode ser melhorado.
+
+## Resultado
+
+Para a identificação de produtos semelhantes a seleção de técnicas que mostrou-se mais promissora usando embedding de 1024 com o modelo mxbai-embed-large fatores foi Agrupamento hierárquico, com similaridade cosseno e definindo uma distância de agrupamento baixa.
